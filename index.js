@@ -1,3 +1,3 @@
 var recipes = new Object({breakfast: griddle});
 
-recipes.lunch = 
+recipes.lunch = 'grilled cheese'
